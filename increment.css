@@ -1,0 +1,34 @@
+img{padding-left: 0%;
+    padding-right: 0%;
+    padding-top: .5%;
+    width:100%;
+    height:90%;}
+h1{text-align:center;
+    background-color: aqua;}
+body{background-image: url('../pexels-photo-773953.jpeg');background-size: cover;
+}
+#head{font-size:xx-large;
+    color:black;
+    font-weight:bolder;
+    margin-left: 25%;}
+h2{font-size: 60px;
+    margin-left: 40%;
+    margin-top:0%;}
+button{
+    margin-left: 20%;
+    font-weight:bolder;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    width: 200px;
+    border-radius: 5px;
+    font-size:medium;
+    }
+
+#increment-btn{background-color: red;}
+#save-btn{background-color: green;}
+p3,p4{
+    font-size: x-large;
+    font-weight: bolder;
+}
+p3{margin-left: 10%;}

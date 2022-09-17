@@ -5,8 +5,7 @@ img{padding-left: 0%;
     height:90%;}
 h1{text-align:center;
     background-color: aqua;}
-body{background-image: url(pexels-photo-773953.jpeg);background-size: cover;
-}
+body{background-image: url(pexels-photo-773953.jpeg);background-repeat: no-repeat;background-size:cover;}
 #head{font-size:xx-large;
     color:black;
     font-weight:bolder;
